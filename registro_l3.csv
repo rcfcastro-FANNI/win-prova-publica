@@ -1,0 +1,24 @@
+﻿data;h4_sinal_hoje;h4_direcao_hoje;h11_condicao_saida_hoje;posicao_aberta;direcao_posicao;data_entrada;dias_em_posicao;evento;hash;resultado_real;observacoes
+2026-08-18;sim;compra;não;sim;compra;2026-08-18;0;entrada nova (H4);;;
+2026-08-19;sim;compra;não;sim;compra;2026-08-18;1;mantém posição;;;
+2026-08-20;sim;compra;não;sim;compra;2026-08-18;2;mantém posição;;;
+2026-08-21;sim;compra;não;sim;compra;2026-08-18;3;mantém posição;;;
+2026-08-24;sim;compra;não;sim;compra;2026-08-18;4;mantém posição;;;
+2026-08-25;sim;compra;não;sim;compra;2026-08-18;5;mantém posição;;;
+2026-08-26;não;—;não;sim;compra;2026-08-18;6;mantém posição;;;
+2026-08-27;não;—;não;sim;compra;2026-08-18;7;mantém posição;;;
+2026-08-28;não;—;não;sim;compra;2026-08-18;8;mantém posição;;;
+2026-08-31;sim;compra;não;sim;compra;2026-08-18;9;mantém posição;;;
+2026-09-01;sim;compra;não;sim;compra;2026-08-18;10;mantém posição;;;
+2026-09-02;sim;compra;não;sim;compra;2026-08-18;11;mantém posição;;;
+2026-09-03;não;—;não;sim;compra;2026-08-18;12;mantém posição;;;
+2026-09-04;não;—;não;sim;compra;2026-08-18;13;mantém posição;;;
+2026-09-08;não;—;não;sim;compra;2026-08-18;14;mantém posição;;;
+2026-09-09;não;—;não;sim;compra;2026-08-18;15;mantém posição;;;
+2026-09-10;não;—;não;sim;compra;2026-08-18;16;mantém posição;;;
+2026-09-11;não;—;não;sim;compra;2026-08-18;17;mantém posição;;;
+2026-09-14;não;—;não;sim;compra;2026-08-18;18;mantém posição;;;
+2026-09-15;não;—;não;sim;compra;2026-08-18;19;mantém posição;;;
+2026-09-16;não;—;não;sim;compra;2026-08-18;20;mantém posição;;;
+2026-09-17;não;—;não;sim;compra;2026-08-18;21;mantém posição;;;
+2026-09-18;não;—;não;sim;compra;2026-08-18;22;mantém posição;32c4198e1163705b9765ae52146efbf0f532579f39d9741088fc68855d72df6e;;

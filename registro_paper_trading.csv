@@ -1,0 +1,10 @@
+﻿data;direcao_mes;contexto;semanas_em_correcao;categoria_h2;sincronia_score;sinal_entrada_swing;sinal_entrada_intraday;sinal_saida;sinais_apoio_favoraveis;resumo;leitura_24_48h_direcao;leitura_24_48h_acerto_24h;leitura_24_48h_acerto_48h;rsi2_mensal;rsi2_semanal;rsi2_diario;sinal_baixa_extrema;sinal_maxima_extrema;hash;resultado_real;seguiu_o_sinal;observacoes
+2026-08-29;baixa;correção;2;D;1;não;não;não;ld_ma3_diario;correção na 2ª semana, sincronia 1, sem sinal de entrada;;;;;;;;;;;;
+2026-08-30;baixa;correção;2;D;1;não;não;não;ld_ma3_diario;correção na 2ª semana, sincronia 1, sem sinal de entrada;baixa;25.9%;21.5%;;;;;;;;;
+2026-09-04;alta;tendência forte;0;D;2;não;não;não;ld_ma3_diario;tendência forte, sincronia 2, sem sinal de entrada;alta;25.9%;21.5%;90.09;94.35;81.45;não;não;;;;
+2026-09-11;alta;correção;1;B;3;não;não;sim;ld_ma3_diario;possível início de correção (1ª semana, ainda ruído), sincronia 3, alinhamento com o mês quebrou hoje — atenção pra possível saída;baixa;60.6%;57.3%;91.94;95.30;45.88;não;não;;;;
+2026-09-14;alta;correção;1;D;3;não;não;sim;;possível início de correção (1ª semana, ainda ruído), sincronia 3, alinhamento com o mês quebrou hoje — atenção pra possível saída;baixa;25.9%;21.5%;91.94;95.30;24.93;não;não;;;;
+2026-09-15;alta;correção;1;C;3;não;não;sim;;possível início de correção (1ª semana, ainda ruído), sincronia 3, alinhamento com o mês quebrou hoje — atenção pra possível saída;alta;30.4%;28.1%;91.94;95.30;51.47;não;não;;;;
+2026-09-16;alta;correção;1;D;3;não;não;sim;;possível início de correção (1ª semana, ainda ruído), sincronia 3, alinhamento com o mês quebrou hoje — atenção pra possível saída;alta;25.9%;21.5%;91.94;95.30;31.52;não;não;;;;
+2026-09-17;alta;correção;1;D;3;não;não;sim;;possível início de correção (1ª semana, ainda ruído), sincronia 3, alinhamento com o mês quebrou hoje — atenção pra possível saída;alta;25.9%;21.5%;91.94;95.30;60.76;não;não;;;;
+2026-09-18;alta;tendência forte;0;D;1;não;não;não;;tendência forte, sincronia 1, sem sinal de entrada;alta;25.9%;21.5%;91.94;65.63;28.28;não;não;ec384156687542639757d587c0a5f313a6d0c1141aebe7c20fbef634e3205926;;;
