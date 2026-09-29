@@ -8,3 +8,9 @@
 2026-09-16;alta;correção;1;D;3;não;não;sim;;possível início de correção (1ª semana, ainda ruído), sincronia 3, alinhamento com o mês quebrou hoje — atenção pra possível saída;alta;25.9%;21.5%;91.94;95.30;31.52;não;não;;;;
 2026-09-17;alta;correção;1;D;3;não;não;sim;;possível início de correção (1ª semana, ainda ruído), sincronia 3, alinhamento com o mês quebrou hoje — atenção pra possível saída;alta;25.9%;21.5%;91.94;95.30;60.76;não;não;;;;
 2026-09-18;alta;correção;2;D;1;não;não;não;;correção na 2ª semana, sincronia 1, sem sinal de entrada;alta;25.9%;21.5%;91.94;61.59;28.28;não;não;b8e4484d98117f5321034e186b6b7c80136deed721385b783a148c620ef06a23;;;
+2026-09-21;alta;correção;2;D;1;não;não;não;;correção na 2ª semana, sincronia 1, sem sinal de entrada;baixa;25.9%;21.5%;91.94;61.59;69.65;não;não;bea35280b603cd47e6e1024a64aa98d722da64c5dc05afc72f831cae8cefff01;;;
+2026-09-22;alta;correção;2;D;1;não;não;não;;correção na 2ª semana, sincronia 1, sem sinal de entrada;baixa;25.9%;21.5%;91.94;61.59;78.24;não;não;2fbd41485254dc6f91f5e7455afc7cf6d0e64c02e26cfb83c1481c19b17b8e86;;;
+2026-09-23;alta;correção;2;B;1;não;não;não;;correção na 2ª semana, sincronia 1, sem sinal de entrada;baixa;60.6%;57.3%;91.94;61.59;23.90;não;não;96a2dc5c7bae495a29cf204a312cb88806506019ebcf11c3248b1e4983c21c49;;;
+2026-09-24;alta;correção;3;B;1;não;não;não;;correção na 3ª semana, sincronia 1, sem sinal de entrada;baixa;60.6%;57.3%;91.94;36.02;10.90;não;não;92302abea6956bb7d11e05db953f496f69ee8eac96b443786b22ca253269ac4a;;;
+2026-09-25;alta;correção;3;D;1;não;não;não;;correção na 3ª semana, sincronia 1, sem sinal de entrada;alta;25.9%;21.5%;91.94;36.02;8.51;não;não;63c059596ecc4d3a98470a6a8f3f76d354542c719b8f8d4a4a26788c4e821c35;;;
+2026-09-28;alta;correção;3;D;1;não;não;não;;correção na 3ª semana, sincronia 1, sem sinal de entrada;baixa;25.9%;21.5%;91.94;36.02;5.50;não;não;d3d8e2f58e31b8895b0947f691d767d3e5aa8480c03329accd04ae6e338bf078;;;
