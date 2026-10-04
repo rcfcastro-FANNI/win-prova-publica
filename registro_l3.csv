@@ -28,3 +28,7 @@
 2026-09-24;sim;venda;não;sim;venda;2026-09-24;0;entrada nova (H4);af0480c5c5207963f302055d7aec952d6138d4d6c0b0c094623157e955f67b63;;
 2026-09-25;sim;venda;não;sim;venda;2026-09-24;1;mantém posição;b70ab5afee5273a0616454bb0e5e4d978995e3527a6ec4643f1b04a818bc7aeb;;
 2026-09-28;sim;venda;não;sim;venda;2026-09-24;2;mantém posição;9b9c281878effd2fa114a564e5ebd45add2697613cb2e13f6bf45ebbf484e9e7;;
+2026-09-29;não;—;não;sim;venda;2026-09-24;3;mantém posição;55e23d37c3897c20bcc99e133fb62bdbbc43d7839a7a2208c782ebb3a6dc3e34;;
+2026-09-30;não;—;não;sim;venda;2026-09-24;4;mantém posição;387e4162be3c02b679647e2f27a9c10301387e85454ff89e4a5341fe18ab1592;;
+2026-10-01;sim;compra;não;sim;venda;2026-09-24;5;mantém posição;e333631ec2fdca9b20164c3cccaca519e5f294184becdab35e1dfba29851e0c1;;
+2026-10-02;sim;compra;não;sim;venda;2026-09-24;6;mantém posição;da2ba69548f1570d8e0023dfdf80f0c6bed0c3227986f7e7db740289b52f514e;;
