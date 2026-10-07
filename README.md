@@ -1,5 +1,36 @@
 # Prova pública — modelo de swing/day-trade para o WIN (Roberta)
 
+> ## ⏸️ Acompanhamento pausado desde 05/10/2026
+>
+> **O que aconteceu:** ao rodar o modelo ao vivo, notamos uma diferença
+> entre os dados semanais históricos e os dados semanais ao vivo.
+> Investigando, encontramos a causa: os dados semanais históricos usados
+> nas análises e no ajuste do modelo incorporavam o fechamento da semana
+> antes de a semana terminar — ou seja, "antecipavam" uma informação que,
+> ao vivo, ainda não existe. O primeiro sintoma disso já tinha
+> aparecido na correção da linha de
+> 18/09/2026 neste repositório (commit de 21/09/2026, que
+> ajustou os valores semanais daquele dia) — na época tratado como um
+> erro pontual de exportação, hoje sabemos que fazia parte do mesmo
+> problema. Isso afeta todos os ativos acompanhados (WIN
+> aqui, e WDO, BOVA11, ITAUSA e ZS1 no repositório
+> [outros-ativos-prova-publica](https://github.com/rcfcastro-FANNI/outros-ativos-prova-publica)).
+>
+> **O que isso significa:** o modelo atual (v1) foi ajustado sobre dados
+> com esse problema, então os resultados históricos que embasaram a
+> escolha dele não são confiáveis. Por isso decidimos pausar o
+> acompanhamento, revisar o modelo e testá-lo de novo antes de continuar.
+>
+> **O que NÃO muda:** o histórico publicado até a última atualização
+> (05/10/2026) fica preservado exatamente como está — nenhuma linha será
+> editada ou apagada, e a corrente de hash continua verificável com
+> `python verificar_integridade.py`.
+>
+> **Próximos passos:** previsão de retorno em cerca de um mês (início de
+> novembro de 2026). O modelo revisado (v2) será publicado separado do
+> v1, com uma corrente de hash nova e data de início própria, para que os
+> dois períodos nunca se misturem.
+
 Este repositório contém só o **histórico de resultados**, dia a dia, de
 um modelo de swing/day-trade para o mini-índice futuro (WIN) da B3 —
 gerado automaticamente, sem intervenção manual, desde que essa automação
